@@ -1,4 +1,4 @@
-# Proyecto de Data Science – Parte III
+# Proyecto de Data Science
 Este repositorio contiene la tercera parte del proyecto de Data Science desarrollado en Google Colab. En esta etapa se profundiza el análisis, incorporando técnicas de modelado, evaluación y visualización para extraer conclusiones significativas a partir del dataset trabajado.
 
 ## Herramientas utilizadas
